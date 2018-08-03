@@ -21,7 +21,7 @@ function newtime() {
 
         if(h<12)
         {
-            document.body.style.backgroundImage= 'url(morining.jpg)';
+            document.body.style.backgroundImage= 'url(morning.jpg)';
             document.getElementById('heading').innerHTML= "Good Morning!";
         }
 
